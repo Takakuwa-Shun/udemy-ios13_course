@@ -1,0 +1,14 @@
+//
+//  item.swift
+//  Todoey
+//
+//  Created by 高桑駿 on 2020/04/15.
+//  Copyright © 2020 高桑駿. All rights reserved.
+//
+
+//import Foundation
+//
+//class Item: Encodable, Decodable {
+//    var title: String = ""
+//    var done: Bool = false
+//}
